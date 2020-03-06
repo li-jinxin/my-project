@@ -8,7 +8,6 @@
 
       {{item.text}}
 
-      
       |
 
       {{item.price}}
